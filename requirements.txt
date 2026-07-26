@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+pandas
+pykeen
+scikit-learn
+torch
+torch-geometric
