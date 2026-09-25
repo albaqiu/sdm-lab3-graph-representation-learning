@@ -1,12 +1,20 @@
-# Semantic Data Management — Lab 3: Graph Representation Learning
+# Citation Network Representation Learning
 
-Course work covering knowledge graph embeddings and graph neural networks.
+Experiments with representation learning for scholarly citation networks, combining knowledge graph embeddings (KGEs) and graph neural networks (GNNs).
+
+## What it explores
+
+- Transforming a publication citation dataset into a knowledge graph
+- Training and evaluating knowledge graph embedding models with PyKEEN
+- Comparing GCN, GraphSAGE, and GAT architectures on graph data
+- Building classical machine-learning baselines for comparison
+- Evaluating models through reproducible notebook experiments
 
 ## Contents
 
-- `SDM_Lab3.ipynb` — analyses and experiments
-- `main.tex` / `main.pdf` — report source and submitted report
-- `KGEStatement.pdf` — assignment statement
+- `SDM_Lab3.ipynb` — data preparation, model training, and evaluation experiments
+- `main.tex` / `main.pdf` — technical report source and rendered report
+- `KGEStatement.pdf` — project brief
 
 ## Environment
 
